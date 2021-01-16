@@ -22,4 +22,4 @@ git add .
 git commit -a -m "$1"
 
 # pushing as vrk
-git push github-as-vrk:valerieetlesriverskids/hugo-vrk.git
+git push 
